@@ -1,0 +1,23 @@
+User Input,Intent,Response,Rating
+Hi there!,weather_query,The weather is sunny today!,2
+How are you today?,greeting,Hello! How can I assist you?,1
+Can you tell me what the weather is today?,greeting,Hello! How can I assist you?,1
+Help me get to where I want to go today,greeting,Hello! How can I assist you?,1
+Tell me a joke.,greeting,Hello! How can I assist you?,1
+Hi there!,greeting,Hi there! What can I do for you?,5
+Tell me a joke.,greeting,Greetings! How may I help you?,1
+Tell me a joke.,greeting,Hello! How can I assist you?,1
+Tell me a joke.,greeting,Hi there! What can I do for you?,1
+Tell me a joke.,greeting,I'm sorry, I didn't understand that.,1
+Tell me a joke,flight_booking,I can assist with flight reservations.,1
+Tell me a joke.,greeting,I'm sorry, I didn't understand that.,1
+Tell me a joke.,greeting,I'm sorry, I didn't understand that.,1
+Tell me a joke.,greeting,I'm sorry, I didn't understand that.,1
+Tell me a joke.,flight_booking,Let's get started with your flight booking.,1
+Tell me a joke.,flight_booking,I can assist with flight reservations.,1
+Tell me a joke.,flight_booking,I can help you book a flight to your destination.,1
+Tell me a joke.,flight_booking,I'm sorry, I didn't understand that.,1
+Tell me a joke.,set_reminder,Reminder set!,1
+Joke,flight_booking,I can help you book a flight to your destination.,1
+I wanna hear something funny.,set_reminder,I'll remind you as requested.,1
+Funny,flight_booking,I can assist with flight reservations.,1

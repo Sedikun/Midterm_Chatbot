@@ -1,0 +1,110 @@
+User Input,Intent,Entities
+"Hi, how are you?",greeting,
+What's the weather like in Manila?,weather_query,location: Manila
+Book me a flight to Japan.,flight_booking,destination: Japan
+Tell me a joke.,tell_joke,
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Tell me a joke.,tell_joke,
+Can you tell me a joke.,tell_joke,
+Say a joke.,tell_joke,
+Say something funny.,tell_joke,
+I want to hear a funny joke.,tell_joke,
+I want to be amused.,tell_joke,
+Amuse me.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+Tell me a joke.,tell_joke,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+"Hi, how are you?",greeting,
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+Book me a flight to Japan.,flight_booking,destination: Japan
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+What's the weather like in Manila?,weather_query,location: Manila
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
+Remind me to call John at 5 PM.,set_reminder,"person: John, time: 5 PM"
