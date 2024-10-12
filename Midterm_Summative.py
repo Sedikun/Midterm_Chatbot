@@ -88,7 +88,7 @@ def classify_intent_and_extract_entities(user_input):
     
     return intent, entities
 
-# Example usage:
+
 while True:
     # Get user input
     user_input = input("Enter your query: ")
@@ -131,5 +131,4 @@ while True:
     print(f"Intent: {intent}")
     print(f"Entities: {entities}")
 
-# Optionally save the feedback for further analysis
-# This can be expanded with more complex learning algorithms in future iterations.
+
