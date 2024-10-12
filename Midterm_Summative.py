@@ -33,7 +33,7 @@ train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True)
 optimizer = torch.optim.AdamW(model.parameters(), lr=1e-5)
 
 # Fine-tune the model
-for epoch in range(3):
+for epoch in range(10):
     model.train()
     total_loss = 0
     for batch in train_loader:
